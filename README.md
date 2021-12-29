@@ -8,10 +8,8 @@ Submissions are evaluated on SMAPE between forecasts and actual values.Here SMAP
 
 
 Data fields :
+
 date - Date of the sale data. There are no holiday effects or store closures.
-
 store - Store ID
-
 item - Item ID
-
 sales - Number of items sold at a particular store on a particular date.
