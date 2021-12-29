@@ -7,9 +7,13 @@ This is a time series problem where we have to try different time series techniq
 Submissions are evaluated on SMAPE between forecasts and actual values.Here SMAPE=0 when the actual and predicted values are both 0.
 
 
+
 Data fields :
 
 date - Date of the sale data. There are no holiday effects or store closures.
+
 store - Store ID
+
 item - Item ID
+
 sales - Number of items sold at a particular store on a particular date.
