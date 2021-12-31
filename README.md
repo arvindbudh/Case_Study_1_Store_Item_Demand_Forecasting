@@ -1,5 +1,5 @@
-# Self-Case-Study-1-Store-Item-Demand-Forecasting
-Self Case Study -1: Store Item Demand Forecasting.
+# Case-Study-1-Store-Item-Demand-Forecasting
+Case Study -1: Store Item Demand Forecasting.
 
 This case study is part of the kaggle competition “Store Item Demand Forecasting Challenge” . 
 We are given 5 years of store-item sales data, and asked to predict 3 months of sales for 50 different items at 10 different stores .
